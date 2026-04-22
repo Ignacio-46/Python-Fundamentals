@@ -1,4 +1,0 @@
-Se crea el archivo en modo exclusivo
-Creando nombre del archivo
-Se anexa el archivo
-Se ha anexado información en el archivo
