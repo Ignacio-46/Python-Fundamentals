@@ -20,7 +20,7 @@ Topics Covered
 | 12–16 | Collections | Lists, tuples, dictionaries, sets |
 | 17–19 | Functions | Definition, parameters, return values, scope |
 | 20–21 | Exercises — Functions | Practice problems |
-| — | Final Project | Integrative exercise covering all topics |
+| 22 | Final Project | Integrative exercise covering all topics |
 
 02 · Algorithms and Programming
 | N | Topic | Description |
@@ -32,7 +32,7 @@ Topics Covered
 | 08–09 | Advanced Topics | Decorators, comprehensions, error handling |
 | 10–12 | File Handling | Reading, writing, and managing files |
 | 13–15 | Stacks and Queues | ADT implementation in Python |
-| — | Final Project | Integrative exercise covering all topics |
+| 16 | Final Project | Integrative exercise covering all topics |
 
 Tools
 - Python 2025.3.1.1
@@ -64,7 +64,7 @@ Temas cubiertos
 | 12–16 | Colecciones | Listas, tuplas, diccionarios, conjuntos |
 | 17–19 | Funciones | Definición, parámetros, retorno, scope |
 | 20–21 | Ejercicios — Funciones | Problemas de práctica |
-| — | Ejercicio Final | Ejercicio integrador de todos los temas |
+| 22 | Ejercicio Final | Ejercicio integrador de todos los temas |
 
 02 · Algoritmos y Programación
 | N | Tema | Descripción |
@@ -76,7 +76,7 @@ Temas cubiertos
 | 08–09 | Temas Avanzados | Decoradores, comprensiones, manejo de errores |
 | 10–12 | Archivos | Lectura, escritura y manejo de archivos |
 | 13–15 | Pilas y Cola | Implementación de TDA en Python |
-| — | Ejercicio Final | Ejercicio integrador de todos los temas |
+| 16 | Ejercicio Final | Ejercicio integrador de todos los temas |
 
 Herramientas
 - Python 2025.3.1.1
