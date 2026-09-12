@@ -1,0 +1,27 @@
+
+ID: 1 | Nombre: Lopez Maria | Dni: 30456789 | Operacion: Deposito | Monto: $15000.5 | Estado: Atendido | Observación: b
+ID: 2 | Nombre: Gomez Carlos | Dni: 28112233 | Operacion: Extraccion | Monto: $8000.0 | Estado: Atendido | Observación: m
+ID: 3 | Nombre: Fernandez Ana | Dni: 35789012 | Operacion: Transferencia | Monto: $42000.0 | Estado: Atendido | Observación: b
+ID: 4 | Nombre: Martinez Diego | Dni: 22345678 | Operacion: Deposito | Monto: $3200.75 | Estado: Atendido | Observación: m
+ID: 5 | Nombre: Ramirez Laura | Dni: 40123456 | Operacion: Consulta | Monto: $0.0 | Estado: Atendido | Observación: m
+ID: 6 | Nombre: Torres Pablo | Dni: 31987654 | Operacion: Extraccion | Monto: $12500.0 | Estado: Atendido | Observación: m
+ID: 7 | Nombre: Sanchez Rosa | Dni: 27654321 | Operacion: Transferencia | Monto: $67000.0 | Estado: Atendido | Observación: b
+ID: 8 | Nombre: Herrera Juan | Dni: 38201345 | Operacion: Deposito | Monto: $9800.0 | Estado: Atendido | Observación: m
+ID: 9 | Nombre: Gimenez Lucia | Dni: 25876543 | Operacion: Consulta | Monto: $0.0 | Estado: Atendido | Observación: m
+ID: 10 | Nombre: Perez Roberto | Dni: 33412987 | Operacion: Extraccion | Monto: $5500.0 | Estado: Atendido | Observación: m
+ID: 1 | Nombre: Lopez Maria | Dni: 30456789 | Operacion: Deposito | Monto: $15000.5 | Estado: Atendido | Observación: b
+ID: 1 | Nombre: Lopez Maria | Dni: 30456789 | Operacion: Deposito | Monto: $15000.5 | Estado: Atendido | Observación: 3
+ID: 1 | Nombre: Lopez Maria | Dni: 30456789 | Operacion: Deposito | Monto: $15000.5 | Estado: Atendido | Observación: b
+ID: 1 | Nombre: Lopez Maria | Dni: 30456789 | Operacion: Deposito | Monto: $15000.5 | Estado: Atendido | Observación: b
+ID: 1 | Nombre: Lopez Maria | Dni: 30456789 | Operacion: Deposito | Monto: $15000.5 | Estado: Atendido | Observación: b
+ID: 2 | Nombre: Gomez Carlos | Dni: 28112233 | Operacion: Extraccion | Monto: $8000.0 | Estado: Atendido | Observación: m
+ID: 3 | Nombre: Fernandez Ana | Dni: 35789012 | Operacion: Transferencia | Monto: $42000.0 | Estado: Atendido | Observación: b
+ID: 4 | Nombre: Martinez Diego | Dni: 22345678 | Operacion: Deposito | Monto: $3200.75 | Estado: Atendido | Observación: m
+ID: 5 | Nombre: Ramirez Laura | Dni: 40123456 | Operacion: Consulta | Monto: $0.0 | Estado: Atendido | Observación: b
+ID: 1 | Nombre: Lopez Maria | Dni: 30456789 | Operacion: Deposito | Monto: $15000.5 | Estado: Atendido | Observación: b
+ID: 2 | Nombre: Gomez Carlos | Dni: 28112233 | Operacion: Extraccion | Monto: $8000.0 | Estado: Atendido | Observación: m
+ID: 3 | Nombre: Fernandez Ana | Dni: 35789012 | Operacion: Transferencia | Monto: $42000.0 | Estado: Atendido | Observación: b
+ID: 4 | Nombre: Martinez Diego | Dni: 22345678 | Operacion: Deposito | Monto: $3200.75 | Estado: Atendido | Observación: m
+ID: 1 | Nombre: Lopez Maria | Dni: 30456789 | Operacion: Deposito | Monto: $15000.5 | Estado: Atendido | Observación: n}3
+ID: 1 | Nombre: Lopez Maria | Dni: 30456789 | Operacion: Deposito | Monto: $15000.5 | Estado: Atendido | Observación: Bueno
+ID: 2 | Nombre: Gomez Carlos | Dni: 28112233 | Operacion: Extraccion | Monto: $8000.0 | Estado: Atendido | Observación: 

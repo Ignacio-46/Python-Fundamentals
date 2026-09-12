@@ -1,0 +1,30 @@
+1,Lopez Maria,08:00,pendiente,7,2024-05-25
+2,Perez Juan,08:30,pendiente,16,2024-05-25
+
+3,Gonzalez Carlos,09:00,pendiente,4,2024-05-25
+4,Rodriguez Ana,09:30,pendiente,18,2024-05-25
+5,Martinez Pedro,10:00,pendiente,12,2024-05-25
+
+6,Diaz Laura,10:30
+
+7,Fernandez Sofia,11:00,pendiente,20,2024-05-25
+8,Gomez Jorge,11:30,pendiente,10,2024-05-25
+
+9,Sanchez Lucas,12:00,pendiente,14,2024-05-25,TerminoExtra,OtroDatoMas
+
+10,Alvarez Martina,12:30,pendiente,6,2024-05-25
+11,Ramirez Pablo,13:00,pendiente,15,2024-05-25
+12,Ortiz Laura,13:30,pendiente,5,2024-05-25
+13,Garcia Javier,14:00,pendiente,9,2024-05-25
+14,Morales Julia,14:30,pendiente,16,2024-05-25
+15,Hernandez Tomas,15:00,pendiente,11,2024-05-25
+16,Castro Sofia,15:30,pendiente,13,2024-05-25
+17,Dominguez Juan,16:00,pendiente,17,2024-05-25
+18,Rivera Lucia,16:30,pendiente,12,2024-05-25
+19,Ramos Mateo,17:00,pendiente,14,2024-05-25
+20,Flores Camila,17:30,pendiente,8,2024-05-25
+21,Gutierrez Marcos,18:00,pendiente,9,2024-05-25
+22,Molina Carla,18:30,pendiente,23,2024-05-25
+23,Carrizo Esteban,19:00,pendiente,24,2024-05-25
+24,Navarro Angela,19:30,pendiente,13,2024-05-25
+25,Mendez Javier,20:00,pendiente,14,2024-05-25

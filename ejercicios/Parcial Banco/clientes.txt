@@ -1,0 +1,28 @@
+1,Lopez Maria,30456789,Deposito,15000.50,2025-06-10
+2,Gomez Carlos,28112233,Extraccion,8000.00,2025-06-10
+3,Fernandez Ana,35789012,Transferencia,42000.00,2025-06-10
+4,Martinez Diego,22345678,Deposito,3200.75,2025-06-10
+
+
+5,Ramirez Laura,40123456,Consulta,0.00,2025-06-10
+6,Torres Pablo,31987654,Extraccion,12500.00,2025-06-10
+
+7,Sanchez Rosa,27654321,Transferencia,67000.00,2025-06-10
+8,Herrera Juan,38201345,Deposito,9800.00,2025-06-10
+
+
+9,Gimenez Lucia,25876543,Consulta,0.00,2025-06-10
+10,Perez Roberto,33412987,Extraccion,5500.00,2025-06-10
+
+Ramirez Laura,40123456,Consulta
+6,Torres Extraccion,12500.00,2025-06-10
+
+11
+12
+13
+14
+
+
+11,Lopez Juan,41234567,Deposito,5000.00,2025-06-10
+12,Garcia Sofia,39876543,Extraccion,3000.00,2025-06-10
+13,Diaz Martin,44123456,Transferencia,8000.00,2025-06-10
